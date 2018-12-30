@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: beige;
+}
+h1{
+    margin: 8px;
+}
+#userinput{
+    margin-bottom: 10px;
+    width: 30%;
+    display: inline-block;
+}
+.btn{
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
